@@ -8,6 +8,7 @@ import java.awt.*;
 public class MainGui extends JFrame {
 
     public MainGui() {
+        //TODO input for array
         setTitle("Sortier Algorithmen");
         setSize(800, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
